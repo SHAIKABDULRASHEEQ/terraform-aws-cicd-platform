@@ -1,4 +1,4 @@
-# terraform-aws-infra-automation
+# Infrastructure Automation with Terraform
 
 Production-style Infrastructure as Code (IaC) project built using Terraform to provision and manage AWS resources including multiple EC2 instances for Jenkins, application deployment, and DevOps lab environments.
 
